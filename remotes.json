@@ -14,7 +14,7 @@
    "name": "cura-private",
    "url": "https://cura.jfrog.io/artifactory/api/conan/cura-private-conan-dev",
    "verify_ssl": true,
-   "disabled: true
+   "disabled": true
   }
  ]
 }
